@@ -46,11 +46,49 @@
 ### Fes que quan un usuari iniciï sessió s'obri el navegador amb la web de l'institut.
 ### Comproba que funciona.
 ### Mostra tot el procés i el resultat.
+## PROCES
+### PAS 1 Obrim el Programador de tasques i li donem a crear tarea
+![image](https://github.com/user-attachments/assets/7763df83-9e29-453f-979f-809bc38436b7)
+### PAS 2 Ara personalitzem i cambiem la opcio ejectutar solo cuando el usuario haya iniciado sesion a  ejecutar tanto si el usuario inicio sesion como si no
+![image](https://github.com/user-attachments/assets/1f442b7f-35fc-4270-9aba-6c68f2bea84a)
+### PAS 3 Ara anem a desencadenadors i cambiem la opcio a Al iniciar sesion 
+![image](https://github.com/user-attachments/assets/35505cf7-4c04-4e14-8e7b-10a86d146491)
+### PAS 4 Ara anem a accions i seleccionem el nostre navegador i ara a arguments posem el link que volem que s'obri
+![image](https://github.com/user-attachments/assets/2bf80f4b-72e7-4062-a2d6-8e3f4a5649be)
+## RESULTAT
+![image](https://github.com/user-attachments/assets/697778af-a1dd-44be-b866-c3bb75afbdfa)
+
 ## Activitat 4.
 ### Fes que una aplicació s'executi a una hora determinada.
 ### Comproba que funciona.
 ### Mostra tot el procés i el resultat.
-## Activitat 5.
+## Proces 
+### PAS 1 Obrim el Programador de tasques i li donem a crear tarea
+![image](https://github.com/user-attachments/assets/7763df83-9e29-453f-979f-809bc38436b7)
+### PAS 2 Personalitzem
+![image](https://github.com/user-attachments/assets/dd684c86-21b5-49b3-91f2-f354fc8997fc)
+### PAS 3 Vamos a desencadenadors i nou i configurem
+![image](https://github.com/user-attachments/assets/81eb01c0-3a4f-4598-b540-7ebea99037f5)
+### PAS 4 Anem a accions nou examinar i seleccionem  el programa a obrir i li donem tot a aceptar
+![image](https://github.com/user-attachments/assets/5fbe6ba2-a027-4e0a-b1cb-e469b039d9ed)
+## RESULTAT
+![image](https://github.com/user-attachments/assets/8551ecdb-1902-451c-a04a-5a374d1b6d16)
+## Activitat 5
+### PAS 1 Obrim el Programador de tasques i li donem a crear tarea
+![image](https://github.com/user-attachments/assets/7763df83-9e29-453f-979f-809bc38436b7)
+### PAS 2 Personalitzem
+![image](https://github.com/user-attachments/assets/dd684c86-21b5-49b3-91f2-f354fc8997fc)
+### PAS 3 Vamos a desencadenadors i nou i configurem
+![image](https://github.com/user-attachments/assets/81eb01c0-3a4f-4598-b540-7ebea99037f5)
+### PAS 4 Ara anem a accions i en examinar posem aquesta ruta C:\Windows\System32\WindowsPowerShell\v1.0 i seleccionem el powershell.exe i li donem aceptar
+![image](https://github.com/user-attachments/assets/9be57218-6bea-4185-9d82-430737c70a66)
+### PAS 5 Ara en arguments posarem el seguent -NoProfile -Command "Clear-RecycleBin -Force" i aceptar
+![image](https://github.com/user-attachments/assets/fd72f93a-0d3c-4a0b-8120-54e41b86232b)
+## RESULTAT
+![image](https://github.com/user-attachments/assets/3f308258-aa6d-4651-aab8-d053b64aeff3)
+![image](https://github.com/user-attachments/assets/89173552-bc4f-41ab-a9a3-624b808d2425)
+
+
 ### Esborra fitxers i deixa'ls a la paperera de reciclatge.
 ### Programa que la paperera de reciclatge es buidi a una hora determinada.
 ### Comproba que funciona.
